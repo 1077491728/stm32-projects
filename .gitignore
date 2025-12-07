@@ -1,0 +1,41 @@
+# Compiled files
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.dep
+*.d
+*.axf
+*.htm
+*.lnp
+*.plg
+*.tra
+*.sct
+
+# Build directories
+MDK-ARM/*/
+Debug/
+Release/
+build/
+Objects/
+Listings/
+
+# IDE files
+*.uvguix.*
+*.bak
+*.log
+JLinkLog.txt
+hs_err_pid*.log
+
+# Archives (too large for git)
+*.rar
+*.zip
+*.7z
+
+# Temporary files
+*~
+*.swp
+*.tmp
